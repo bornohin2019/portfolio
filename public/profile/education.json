@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "dateText": "Sept 2017 to May 2021",
+      "cardtitle": "Diploma in Computer Engineering",
+      "cardsubtitle": "Dinajpur Polytechnic Institute",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    },
+    {
+      "dateText": "May 2014 to May 2016",
+      "cardtitle": "SSC",
+      "cardsubtitle": "Shaghata Pilot High School",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    }
+  ]
+}

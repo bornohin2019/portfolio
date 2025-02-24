@@ -1,0 +1,43 @@
+
+  {
+    "skills": [
+      {
+        "title": "Web Developer | Expert in React & Laravel",
+        "tags": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "jQuery",
+          "React",
+          "Laravel"
+        ]
+      },
+      {
+        "title": "Software/Tools",
+        "tags": [
+          "GIT",
+          "MS Office Suite",
+          "VS code"
+        ]
+      },
+      {
+        "title": "Databases",
+        "tags": [
+          "MySQL"
+        ]
+      },
+      {
+        "title": "Project Management",
+        "tags": [
+          "Project Planning",
+          "Management",
+          "Time Management",
+          "Problem Solving",
+          "Decision Making",
+          "Communication"
+        ]
+      }
+    ]
+    }
+

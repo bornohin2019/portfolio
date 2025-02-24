@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "image": "",
+        "title": "Peak Pos",
+        "bodyText": "The POS (Point of Sale) Inventory System is a web-based solution designed to manage sales transactions, track inventory, and streamline business operations. It helps businesses keep real-time records of stock levels, purchases, and sales while ensuring efficient warehouse management.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "working on this project"
+          }
+        ],
+        "tags": ["HTML", "CSS", "Bootstrap 5", "JavaScript", "PHP", "My SQL", "React", "Laravel"]
+      },
+      {
+        "image": "",
+        "title": "Event Management System",
+        "bodyText": "The Event Management System is a web-based platform designed to facilitate the seamless organization and management of events. This system allows users to browse events, register, book tickets, and manage their bookings, while administrators can oversee event listings, manage ticket sales, and track user participation efficiently.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://rabbani.top"
+          }
+        ],
+        "tags": ["HTML", "CSS", "Bootstrap 5", "JavaScript", "PHP", "My SQL"]
+      },
+      {
+        "image": "",
+        "title": "gentalPark clone",
+        "bodyText": "Gentle Park Clone is an eCommerce website designed for seamless online shopping. It features product listing, categories, search, cart, and a secure checkout system. Built with HTML, CSS, Bootstrap, ensuring a responsive and user-friendly experience. Optimized for performance and easy navigation.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://bornohin2019.github.io/gentalPark/"
+          }
+        ],
+        "tags": ["HTML", "CSS", "Bootstrap 5", "JavaScript"]
+      }
+    ]
+  }
+  

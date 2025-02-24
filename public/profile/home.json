@@ -1,0 +1,17 @@
+{
+    "profilePic": {
+      "source": "images/HomePaageImg.png",
+      "width": 200,
+      "height": 200,
+      "border-radius": 50,
+      "object-fit": "cover",
+      "margin-bottom": 20
+    },
+    "name": "Md. Rabbhani Mia",
+    "roles": [
+      "Web Developer | Expert in Java Scripts, PHP, React & Laravel"
+    ],
+    "paragraph": [
+      "Results-driven I am a Web Developer who specializes in Laravel, React.js, and PHP, and I am committed to creating web applications that are efficient, scalable, and user-centric. Passionate about innovation, problem-solving, and continuous learning to deliver high-quality digital solutions."
+    ]
+  }
